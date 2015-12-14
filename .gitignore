@@ -1,0 +1,14 @@
+.remote-sync.json
+sftp-config.json
+.ftpconfig
+
+home/css/font-awesome/*
+home/images/*
+home/projects/*
+home/dev/*
+home/includes/*
+
+
+HFS-HEJA/*
+pendulum/*
+taxivis/*
