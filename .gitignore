@@ -5,10 +5,10 @@ sftp-config.json
 home/css/font-awesome/*
 home/images/*
 home/projects/*
-home/dev/*
+
 home/includes/*
 
-
+dev/*
 HFS-HEJA/*
 pendulum/*
 taxivis/*
